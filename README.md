@@ -1,7 +1,8 @@
 ### Oiee, eu sou a Camila Grandini, estudante de Ciência da Computação e entusiasta de tecnologia 👋
 
+- 📖 Estou cursando o 4o período de Ciência da Computação na PUC Minas
 - 🔭 Atualmente estou realizando uma pesquisa na área de Ciência de Dados em Python
-- 🌱 Estudante de Python
+- 🌱 Estudando Python
 - 📫 Contate-me no email: cacagrandini@gmail.com
 - 😄 Pronomes: ela/dela
 - ⚡ Curiosidade: toco teclado no meu tempo livre e sou apaixonada com arte e literatura - principalmente os clássicos brasileiros do século XX.
