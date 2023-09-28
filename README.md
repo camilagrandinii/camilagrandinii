@@ -1,6 +1,6 @@
 ### Oiee, eu sou a Camila Grandini, estudante de Ciência da Computação e entusiasta de tecnologia 👋
 
-- 📖 Estou cursando o 4o período de Ciência da Computação na PUC Minas
+- 📖 Estou cursando o 6o período de Ciência da Computação na PUC Minas
 - 🔭 Atualmente estou realizando uma pesquisa na área de Ciência de Dados em Python
 - 🌱 Estudando Python
 - 📫 Contate-me no email: cacagrandini@gmail.com
@@ -13,7 +13,7 @@
  <a href="https://discord.com/channels/cams#2721
 " target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:cacagrandini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/camila-lacerda-4b8231213" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/camilagrandini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <h2>Ferramentas e Tecnologias</h2>
@@ -23,6 +23,7 @@
   <img align="center" alt="Camila-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Camila-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Camila-C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Camila-C#" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Camila-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Camila-PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </div>
