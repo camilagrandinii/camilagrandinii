@@ -1,10 +1,10 @@
-### Oiee, eu sou a Camila Grandini, estudante de Ciência da Computação e entusiasta de tecnologia 👋
+###👋 Olá, eu sou a Camila Grandini, estudante de Ciência da Computação e entusiasta de tecnologia 👋
 
-- 📖 Estou cursando o 7o período de Ciência da Computação na PUC Minas
-- 🔭 Atualmente estou realizando meu TCC acerca da paralelização de um algoritmo genético multiobjetivo
-- 📫 Contate-me no email: camila.grandini.pro@gmail.com
-- 😄 Pronomes: ela/dela
-- ⚡ Curiosidade: toco teclado no meu tempo livre e sou apaixonada com arte e literatura - principalmente os clássicos brasileiros do século XX.
+🎓 Estudante de Ciência da Computação no 7º período da PUC Minas
+💡 Atualmente desenvolvendo meu TCC sobre paralelização de um algoritmo genético multiobjetivo
+🎹 Toco teclado nas horas vagas e sou fã de arte e literatura brasileira do século XX
+📫 Entre em contato: camila.grandini.pro@gmail.com
+🧍‍♀️ Pronomes: ela/dela
 
 <h2>Me encontre aqui!</h2>
 <div> 
@@ -18,6 +18,7 @@
 <h2>Ferramentas e Tecnologias</h2>
 <div style="display: inline_block;"><br>
   <img align="center" alt="Camila-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Camila-PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Camila-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Camila-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Camila-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
