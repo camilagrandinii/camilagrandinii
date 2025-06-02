@@ -2,7 +2,7 @@
 
 - 🎓 Estudante de Ciência da Computação no 7º período da PUC Minas
 - 💡 Atualmente desenvolvendo meu TCC sobre paralelização de um algoritmo genético multiobjetivo
-- 🎹 Toco teclado nas horas vagas e sou fã de arte e literatura brasileira do século XX
+- 🎹 Toco teclado nas horas vagas e sou apaixonada por arte e pela literatura brasileira do século XX
 - 📫 Entre em contato: camila.grandini.pro@gmail.com
 - 🧍‍♀️ Pronomes: ela/dela
 
