@@ -1,10 +1,10 @@
 ###👋 Olá, eu sou a Camila Grandini, estudante de Ciência da Computação e entusiasta de tecnologia 👋
 
-🎓 Estudante de Ciência da Computação no 7º período da PUC Minas
-💡 Atualmente desenvolvendo meu TCC sobre paralelização de um algoritmo genético multiobjetivo
-🎹 Toco teclado nas horas vagas e sou fã de arte e literatura brasileira do século XX
-📫 Entre em contato: camila.grandini.pro@gmail.com
-🧍‍♀️ Pronomes: ela/dela
+- 🎓 Estudante de Ciência da Computação no 7º período da PUC Minas
+- 💡 Atualmente desenvolvendo meu TCC sobre paralelização de um algoritmo genético multiobjetivo
+- 🎹 Toco teclado nas horas vagas e sou fã de arte e literatura brasileira do século XX
+- 📫 Entre em contato: camila.grandini.pro@gmail.com
+- 🧍‍♀️ Pronomes: ela/dela
 
 <h2>Me encontre aqui!</h2>
 <div> 
