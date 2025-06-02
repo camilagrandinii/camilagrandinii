@@ -1,4 +1,4 @@
-###👋 Olá, eu sou a Camila Grandini, estudante de Ciência da Computação e entusiasta de tecnologia 👋
+👋 ### Olá, eu sou a Camila Grandini, estudante de Ciência da Computação e entusiasta de tecnologia 👋
 
 - 🎓 Estudante de Ciência da Computação no 7º período da PUC Minas
 - 💡 Atualmente desenvolvendo meu TCC sobre paralelização de um algoritmo genético multiobjetivo
