@@ -1,12 +1,12 @@
- ### Olá, eu sou a Camila Grandini, estudante de Ciência da Computação e entusiasta de tecnologia 👋
+ ### Hey there, I'm Camila Grandini, Computer Science student and technology enthusiast 👋
 
-- 🎓 Estudante de Ciência da Computação no 7º período da PUC Minas
-- 💡 Atualmente desenvolvendo meu TCC sobre paralelização de um algoritmo genético multiobjetivo
-- 🎹 Toco teclado nas horas vagas e sou apaixonada por arte e pela literatura brasileira do século XX
-- 📫 Entre em contato: camila.grandini.pro@gmail.com
-- 🧍‍♀️ Pronomes: ela/dela
+- 🎓 Computer Science student at the 7th period of PUC MINAS
+- 💡 Currently developing my thesis on the paralelization of a genectique multiobjective algorithm
+- 🎹 I play the keyboard on my free hours and I'm passionate about art and brazillian literature of the XX century
+- 📫 Reach me at: camila.grandini.pro@gmail.com
+- 🧍‍♀️ Pronouns: she/her
 
-<h2>Me encontre aqui!</h2>
+<h2>Find me here!</h2>
 <div> 
   <a href="https://instagram.com/caca_lacerda" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/cams#2721
@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/camilagrandini/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<h2>Ferramentas e Tecnologias</h2>
+<h2>Tools and Technologies</h2>
 <div style="display: inline_block;"><br>
   <img align="center" alt="Camila-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Camila-PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
