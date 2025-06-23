@@ -1,9 +1,9 @@
  ### Hey there, I'm Camila Grandini, Computer Science student and technology enthusiast 👋
 
-- 🎓 Computer Science student at the 7th period of PUC MINAS
-- 💡 Currently developing my thesis on the paralelization of a genectique multiobjective algorithm
-- 🎹 I play the keyboard on my free hours and I'm passionate about art and brazillian literature of the XX century
-- 📫 Reach me at: camila.grandini.pro@gmail.com
+- 🎓 Computer Science student in the 7th semester at PUC MINAS
+- 💡 Currently developing my thesis on the parallelization of a multi-objective genetic algorithm
+- 🎹 I play the keyboard in my free time and I'm passionate about art and 20th-century Brazilian literature
+- 📫 You can reach me at: camila.grandini.pro@gmail.com
 - 🧍‍♀️ Pronouns: she/her
 
 <h2>Find me here!</h2>
