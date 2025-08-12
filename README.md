@@ -1,6 +1,6 @@
  ### Hey there, I'm Camila Grandini, Computer Science student and technology enthusiast 👋
 
-- 🎓 Computer Science student in the 7th semester at PUC MINAS
+- 🎓 Computer Science student in the 8th semester at PUC MINAS
 - 💡 Currently developing my thesis on the parallelization of a multi-objective genetic algorithm
 - 🎹 I play the keyboard in my free time and I'm passionate about art and 20th-century Brazilian literature
 - 📫 You can reach me at: camila.grandini.pro@gmail.com
