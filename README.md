@@ -30,7 +30,7 @@ Here are some areas and projects I've been involved in:
 
 - **Parallel Genetic Algorithms** — Research on parallelizing NSGA-II using Python, mpi4py, and OpenMPI, investigating performance and scalability.
 - **Quantum-Resistant SSL/TLS** — Exploring post-quantum cryptography and the transition toward quantum-resistant secure communication.
-- **meiAmei** — A technology-driven initiative focused on improving healthcare waste management processes, developed with an interdisciplinary team.
+- **meiAmei** — A platform connecting microentrepreneurs (MEIs) to local Entrepreneur Support Centers through automated WhatsApp assistance, while providing support teams with an integrated management system featuring dashboards, streamlined registrations, and internal workflows.
 - **Travel Me** — Full-stack development, cloud integrations, workflow automation, and DevSecOps improvements.
 - **Enterprise Automation** — Backend development and integrations involving C#, .NET, SAP, and identity and access management.
 
