@@ -68,8 +68,8 @@ Cryptography · SSL/TLS · Post-Quantum Cryptography · DevSecOps · Distributed
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=camilagrandinii&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilagrandinii&layout=compact&langs_count=8&theme=transparent&hide_border=true"/>
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=camilagrandinii&show_icons=true&theme=transparent&hide_border=true"/>
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=camilagrandinii&layout=compact&langs_count=8&theme=transparent&hide_border=true"/>
 </div>
 
 ### 📫 Let's Connect!
